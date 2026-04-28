@@ -1,0 +1,25 @@
+{
+  "overview": "A mobile-responsive AI Quiz Application with teacher and student roles. Teachers can create quizzes manually or use AI simulation to generate them from a topic. Students can browse available quizzes, attempt them one question at a time, and see their score at the end.",
+  "features": [
+    "Login screen with Teacher/Student role selection",
+    "Teacher dashboard with Create Quiz and Generate Quiz (AI) buttons",
+    "Quiz builder with title, multiple questions, 4-option answers, and correct answer marking",
+    "AI-simulated quiz generation from a topic input with mock data",
+    "Student dashboard showing available quizzes",
+    "Quiz attempt screen showing one question at a time with multiple choice answers",
+    "Results screen displaying score after submission",
+    "Card-based modern mobile-first UI",
+    "Local state management with Zustand and mock data"
+  ],
+  "category": "education",
+  "tags": [
+    "quiz",
+    "education",
+    "ai",
+    "teacher",
+    "student",
+    "mobile",
+    "prototype"
+  ],
+  "last_updated": "2026-04-28T18:46:37.449Z"
+}
